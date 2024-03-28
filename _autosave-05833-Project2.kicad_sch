@@ -6414,7 +6414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e875bd32-350e-4b93-8b30-0ec9431a3385")
-		(property "Reference" "J3"
+		(property "Reference" "AREF"
 			(at 88.265 45.72 0)
 			(effects
 				(font
@@ -6464,7 +6464,7 @@
 		(instances
 			(project "05833-Project2"
 				(path "/e30c0031-f481-430a-8ab4-08825872f914"
-					(reference "J3")
+					(reference "AREF")
 					(unit 1)
 				)
 			)

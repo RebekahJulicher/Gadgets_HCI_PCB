@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 05833)(type Legacy)(uri ${KIPRJMOD}/05833.lib)(options "")(descr "CMU 05833 Components"))
+)
